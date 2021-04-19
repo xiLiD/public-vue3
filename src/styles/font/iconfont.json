@@ -1,0 +1,16 @@
+{
+  "id": "2269006",
+  "name": "知识图谱",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "17204038",
+      "name": "右箭头",
+      "font_class": "xianxingtubiaozhizuomoban-12",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    }
+  ]
+}
